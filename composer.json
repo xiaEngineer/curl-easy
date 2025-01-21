@@ -1,5 +1,5 @@
 {
-    "name": "stil/curl-easy",
+    "name": "xiaEngineer/curl-easy",
     "description": "cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot.",
     "license": "MIT",
     "require": {
