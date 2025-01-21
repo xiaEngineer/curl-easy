@@ -4,6 +4,8 @@ namespace cURL;
 
 use Symfony\Component\EventDispatcher\EventDispatcher;
 
+#[\AllowDynamicProperties]
+
 class Request extends EventDispatcher implements RequestInterface
 {
     /**
