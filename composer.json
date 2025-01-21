@@ -1,5 +1,6 @@
 {
     "name": "xiaengine/curl-easy",
+    "version": "1.0.0",
     "type": "library",
     "description": "cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot.",
     "license": "MIT",
